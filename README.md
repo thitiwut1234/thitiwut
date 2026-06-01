@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/thitiwut1234">
-    <img src="https://komarev.com/ghvc/?username=thitiwut1234&style=for-the-badge&color=00f2fe" alt="thitiwut1234 visitor counter" />
+    <img src="https://komarev.com/ghpvc/?username=thitiwut1234&style=for-the-badge&color=00f2fe" alt="thitiwut1234 visitor counter" />
   </a>
 </p>
 
@@ -92,10 +92,10 @@ I bridge the gap between structured enterprise systems (Java/OOP) and agile, mod
 
 <p align="center">
   <a href="https://github.com/thitiwut1234">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=thitiwut1234&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f2fe&text_color=c9d1d9&icon_color=00f2fe" alt="Thitiwut's GitHub Stats" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thitiwut1234&theme=radical" alt="Thitiwut's GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/thitiwut1234">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=thitiwut1234&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f2fe&text_color=c9d1d9" alt="Thitiwut's Top Languages" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thitiwut1234&theme=radical" alt="Thitiwut's Language Stats" width="48%" />
   </a>
 </p>
 
