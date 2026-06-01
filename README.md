@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <strong>Backend Developer & Software Engineer</strong>
+  <strong>Software Engineer</strong>
 </p>
 
 <p align="center">
